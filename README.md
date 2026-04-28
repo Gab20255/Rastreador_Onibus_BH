@@ -24,7 +24,7 @@ BRANCO:
 - Mostrar o ponto mais próximo do usuário e daqui quanto tempo  o onibus 
 - Ao selecionar o ponto, mostrar os horários do onibus
 
-  MATEUS:
+MATEUS:
 
-  - Front-end
-  - css
+- Front-end
+- css
