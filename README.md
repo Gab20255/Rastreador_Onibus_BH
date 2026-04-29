@@ -16,7 +16,7 @@ BRAGA + JOAOZINHO:
 - Filtros de RAIO
 - Mudança da sua localização(sua localização real ou a que o usuário mandar)
 
-BRANCO:
+BRANCO + CODAMA:
 
 - Selecionar as linhas(filtro de linhas)
 - Mostrar os pontos de onibus da linha
